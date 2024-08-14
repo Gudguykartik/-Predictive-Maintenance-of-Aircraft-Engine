@@ -1,4 +1,4 @@
-# Predictive Maintenance (PdM) of Aircraft Engine
+# Predictive Maintenance of Aircraft Engine
 
 Predictive Maintenance techniques are used to determine the condition of an equipment to plan the maintenance/failure ahead of its time. This is very useful as the equipment downtime cost can be reduced significantly. 
 
@@ -32,24 +32,4 @@ The training set includes operational data from 100 different engines. The lengt
 
 (7) 1D CNN-SVM for binary classification
 
-### Experimenatation
-
-
-## To Do:
-- Autokeras failure prediction
-- Tsfresh 
-- DTW and Time series clustering
-- Genetic Algorithm
-- Hidden Markov Models
-- Survival Analysis
-- Autoencoder
-
-
-
-
-
-
-## References
-
-https://www.mathworks.com/help/predmaint/ug/rul-estimation-using-rul-estimator-models.html
 
